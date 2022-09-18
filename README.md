@@ -1,1 +1,1 @@
-Projetos de criação Web. Feitos em aulas. Dois clones, um da Netflix e outro do instagram e uma brincadeira com JS.  
+Web creation projects. Made in classes. Two clones, one from Netflix and one from instagram and a joke with JS. Classroom projects at IO
